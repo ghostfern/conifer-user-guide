@@ -9,7 +9,7 @@ nav_order: 04
 {: .no_toc }
 
 Conifer can handle 
-- WARCs created with any web archiving tool (an ISO standard for web arhciving)
+- WARCs created with any web archiving tool (an ISO standard for web archiving)
 - ARC files (the predecessor of WARC)
 - HAR files (a browser and web site debugging protocol format)
 
